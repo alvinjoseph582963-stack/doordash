@@ -469,9 +469,9 @@
 }
 
 .headt {
-    display: flex;
+    /* display: flex;
     grid-template-rows: auto auto auto;
-    grid-template-columns: auto 1fr auto;
+    grid-template-columns: auto 1fr auto; */
     align-items: center;
     column-gap: 8px;
     padding: 20px;
